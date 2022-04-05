@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://DonVoid18.github.io/R-calculadora/static/css/main.d0c488c7.css",
+    "main.js": "/git%20remote%20add%20origin%20https://DonVoid18.github.io/R-calculadora/static/js/main.09604bc2.js",
+    "index.html": "/git%20remote%20add%20origin%20https://DonVoid18.github.io/R-calculadora/index.html",
+    "main.d0c488c7.css.map": "/git%20remote%20add%20origin%20https://DonVoid18.github.io/R-calculadora/static/css/main.d0c488c7.css.map",
+    "main.09604bc2.js.map": "/git%20remote%20add%20origin%20https://DonVoid18.github.io/R-calculadora/static/js/main.09604bc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c488c7.css",
+    "static/js/main.09604bc2.js"
+  ]
+}
